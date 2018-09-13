@@ -1,0 +1,31 @@
+﻿{
+  "Collection": [
+    {
+      "Id": "1",
+      "Naziv": "Patike",
+      "Opis": "Kozne patike",
+      "Kategorija": "obuca",
+      "Proizvodjac": "Adidas",
+      "Dobavljac": "Sportisimo",
+      "Cena": "5000"
+    },
+    {
+      "Id": "2",
+      "Naziv": "Cipele",
+      "Opis": "Kozne cipele",
+      "Kategorija": "obuca",
+      "Proizvodjac": "Metro",
+      "Dobavljac": "Sportisimo",
+      "Cena": "3500"
+    },
+    {
+      "Id": "3",
+      "Naziv": "Majica",
+      "Opis": "Pamucna majica",
+      "Kategorija": "Odeca",
+      "Proizvodjac": "Nike",
+      "Dobavljac": "Sportisimo",
+      "Cena": "1800"
+    }
+  ]
+}
